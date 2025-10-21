@@ -52,7 +52,9 @@ job-tracker-app/
 │   ├── src/
 │   ├── package.json
 │   └── ...
-└── README.md
+└── README.md```
+
+---
 
 🪜 Getting Started
 1️⃣ Clone the repository
