@@ -1,4 +1,5 @@
 # 🧭 Job Tracker App  
+
 ### Full-stack Job Tracking Application built with React, Node.js, GraphQL & MongoDB  
 
 A web application that helps job-seekers track their applications, monitor interview progress, and stay organized during the job search.  
@@ -55,7 +56,6 @@ job-tracker-app/
 │   └── ...
 │
 └── README.md
-
 🪜 Getting Started (Local Setup)
 1️⃣ Clone the repository
 bash
