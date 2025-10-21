@@ -41,13 +41,20 @@ The app includes authentication, a modern dashboard, and filtering features for 
 
 ## 🧱 Project Structure
 
+```plaintext
 job-tracker-app/
-├── client/ # React frontend (Vite + Apollo Client)
-├── server/ # Node.js + GraphQL backend
+│
+├── client/         # React frontend (Vite + Apollo Client)
+│   ├── src/
+│   ├── package.json
+│   └── ...
+│
+├── server/         # Node.js + GraphQL backend
+│   ├── src/
+│   ├── package.json
+│   └── ...
+│
 └── README.md
-
-yaml
-Copy code
 
 ---
 
