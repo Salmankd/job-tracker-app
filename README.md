@@ -52,7 +52,8 @@ job-tracker-app/
 │   ├── src/
 │   ├── package.json
 │   └── ...
-└── README.md```
+└── README.md
+```
 
 ---
 
