@@ -108,8 +108,7 @@ Add notifications/reminders for interview dates
 👨‍💻 Author
 Salman Khalid
 Frontend Developer | Test Automation Engineer | Open to Full-stack Roles
-📍 Based in Germany, open to relocation (UAE / Saudi Arabia)
-🔗 LinkedIn Profile
+📍 Based in Germany
 
 🏷️ License
 This project is licensed under the MIT License — free to use, copy, and modify with attribution.
