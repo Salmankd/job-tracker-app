@@ -57,67 +57,72 @@ job-tracker-app/
 
 ---
 
-🪜 Getting Started
-1️⃣ Clone the repository
-bash
-Copy code
+## 🪜 Getting Started
+
+### 1️⃣ Clone the repository
+
 git clone git@github.com:Salmankd/job-tracker-app.git
 cd job-tracker-app
-2️⃣ Setup the backend
-bash
-Copy code
+
+### 2️⃣ Setup the backend
+
 cd server
 npm install
+
 Create a .env file in /server with:
 
-ini
-Copy code
 PORT=4000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
+
 Start the server:
 
-bash
-Copy code
 npm start
+
 Server runs at 👉 http://localhost:4000/graphql
 
-3️⃣ Setup the frontend
-bash
-Copy code
+### 3️⃣ Setup the frontend
+
 cd ../client
 npm install
 npm run dev
+
 Frontend runs at 👉 http://localhost:5173
 
-🌍 Deployment
-Frontend: Deployed on Vercel
+---
 
-Backend: Deployed on Render / Railway
+## 🌍 Deployment
 
-Database: MongoDB Atlas
+- Frontend: Deployed on Vercel
+- Backend: Deployed on Render / Railway
+- Database: MongoDB Atlas
 
 🖥️ Live Demo: (link will be added once deployed)
 
-📸 Screenshots
+---
+
+## 📸 Screenshots
 Login Page	Dashboard	Add Job
 
-📈 Future Improvements
-Add search & sorting
+---
 
-Add statistics charts (job status over time)
+## 📈 Future Improvements
 
-Add dark mode toggle
+- Add search & sorting
+- Add statistics charts (job status over time)
+- Add dark mode toggle
+- Add notifications/reminders for interview dates
 
-Add notifications/reminders for interview dates
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
+
 Salman Khalid
 Frontend Developer | Test Automation Engineer | Open to Full-stack Roles
 📍 Based in Germany
 
-🏷️ License
-This project is licensed under the MIT License — free to use, copy, and modify with attribution.
+---
 
-yaml
-Copy code
+## 🏷️ License
+
+This project is licensed under the MIT License — free to use, copy, and modify with attribution.
